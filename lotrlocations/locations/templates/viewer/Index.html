@@ -95,6 +95,7 @@
    function saveComment(){
        
        var feature = selectedFeature;
+       feature.attributes.comments= $('textarea[name="comments"]').val() ;
        data = 
         {
     "id": feature.attributes.id,
