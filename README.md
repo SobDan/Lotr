@@ -1,2 +1,8 @@
 # Lotr
-The lord of the rings locations
+The Lort of the Rings shooting locations in new zealand.
+
+
+
+
+
+
