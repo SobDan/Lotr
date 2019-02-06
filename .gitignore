@@ -111,3 +111,4 @@ eb-virt/*
 .vscode/
 
 lotrlocations/static/*
+requirements.txt
