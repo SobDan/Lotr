@@ -13,7 +13,7 @@ from django.http import HttpResponse
 from django.template import Context
 from django.template import loader
 def index(request):
-    t = loader.get_template('viewer/index.html')
+    t = loader.get_template('viewer/Index.html')
     return HttpResponse(t.render())
 
 @api_view(['GET', 'DELETE', 'PUT']) # Methods Allowed
